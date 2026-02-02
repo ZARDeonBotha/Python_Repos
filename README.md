@@ -1,2 +1,3 @@
 # Python_Repos
-Practice repo for HyperionDev Git task.
+
+Practice repo for HyperionDev Git task: PM-01-PS04 – Getting started with GIT.
